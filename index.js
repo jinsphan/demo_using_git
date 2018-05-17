@@ -1,2 +1,2 @@
 const master = 5;
-const tinhs = 6;
+const danh = 6;
